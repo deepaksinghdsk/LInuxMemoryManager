@@ -12,7 +12,9 @@ Linked list data structure is being used by the Memory manager to allocate memor
 <br><br>
 <image align="left" width="300" src="./screenshots/6.jpg">
 <image align="center" width="300" src="./screenshots/3.jpg">
-<image align="center" width="300" src="./screenshots/4.jpg">
-<image align="center" width="300" src="./screenshots/5.jpg">
+
+<br><br>
+<image align="left" width="300" src="./screenshots/4.jpg">
+<image align="left" width="300" src="./screenshots/5.jpg">
 
 
